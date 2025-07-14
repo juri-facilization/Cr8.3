@@ -486,13 +486,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtProductivityCopilot">
-			<HintPath>$(RelativePkgFolderPath)/CrtProductivityCopilot/$(StandalonePackageAssemblyPath)/CrtProductivityCopilot.dll</HintPath>
+		<Reference Include="CrtProductivityMobile">
+			<HintPath>$(RelativePkgFolderPath)/CrtProductivityMobile/$(StandalonePackageAssemblyPath)/CrtProductivityMobile.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtProductivityMobile">
-			<HintPath>$(RelativePkgFolderPath)/CrtProductivityMobile/$(StandalonePackageAssemblyPath)/CrtProductivityMobile.dll</HintPath>
+		<Reference Include="CrtProductivityCopilot">
+			<HintPath>$(RelativePkgFolderPath)/CrtProductivityCopilot/$(StandalonePackageAssemblyPath)/CrtProductivityCopilot.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>

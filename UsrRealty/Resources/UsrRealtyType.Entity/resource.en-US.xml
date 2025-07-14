@@ -3,7 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty type" />
-			<Item Name="EventsProcessSchema.Caption" Value="Business process" />
+			<Item Name="Columns.UsrMyColor.Caption" Value="My color" />
 		</Items>
 	</Group>
 </Resources>
