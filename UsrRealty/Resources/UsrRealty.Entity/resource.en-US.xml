@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Realty" />
 			<Item Name="Columns.UsrArea.Caption" Value="Area" />
+			<Item Name="Columns.UsrComission.Caption" Value="Commision, USD" />
 			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
