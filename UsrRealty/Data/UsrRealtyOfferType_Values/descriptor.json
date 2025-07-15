@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "dd6a95ab-a9f6-4316-abde-42f051228bb8",
     "Name": "UsrRealtyOfferType_Values",
-    "ModifiedOnUtc": "\/Date(1752445045000)\/",
+    "ModifiedOnUtc": "\/Date(1752582722000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "dd6a95ab-a9f6-4316-abde-42f051228bb8",
@@ -24,6 +24,13 @@
         "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
       },
       {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
         "IsForceUpdate": false,
         "IsKey": false,
@@ -31,11 +38,11 @@
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
-        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
-        "IsForceUpdate": false,
+        "ColumnUId": "0bdb8bac-be41-7d4b-91d6-0e377b89075b",
+        "IsForceUpdate": true,
         "IsKey": false,
-        "ColumnName": "CreatedOn",
-        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+        "ColumnName": "UsrCommissionPercent",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
       },
       {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",

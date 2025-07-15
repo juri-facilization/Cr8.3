@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty list page" />
+			<Item Name="LocalizableStrings.QuickFilter_juqts2y_caption.Value" Value="Quick filter" />
+			<Item Name="LocalizableStrings.QuickFilter_juqts2y_config_caption.Value" Value="Type" />
 		</Items>
 	</Group>
 </Resources>
