@@ -577,6 +577,7 @@
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrRealtyVisit/UsrRealtyVisit.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrTrafficLight/UsrTrafficLight.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrTrafficLight/UsrTrafficLight.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrRealty/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
 	</ItemGroup>
