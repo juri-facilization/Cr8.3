@@ -57,17 +57,17 @@ define("UsrAvgPriceOutputPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**S
 						"column": 2,
 						"colSpan": 1,
 						"row": 1,
-						"rowSpan": 5
+						"rowSpan": 4
 					},
 					"type": "crt.Input",
-					"label": "$Resources.Strings.PageParameters_UsrTextParameter1_8wwu11a",
-					"labelPosition": "auto",
-					"control": "$PageParameters_UsrTextParameter1_8wwu11a",
-					"multiline": true,
-					"visible": true,
-					"readonly": true,
+					"label": "$Resources.Strings.PageParameters_UsrSQLText_wur6rn0",
+					"control": "$PageParameters_UsrSQLText_wur6rn0",
 					"placeholder": "",
-					"tooltip": ""
+					"tooltip": "",
+					"readonly": true,
+					"multiline": true,
+					"labelPosition": "auto",
+					"visible": true
 				},
 				"parentName": "GeneralInfoTabContainer",
 				"propertyName": "items",
@@ -81,14 +81,14 @@ define("UsrAvgPriceOutputPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**S
 					"attributes"
 				],
 				"values": {
-					"PageParameters_UsrTextParameter1_8wwu11a": {
-						"modelConfig": {
-							"path": "PageParameters.UsrSQLText"
-						}
-					},
 					"PageParameters_UsrIntegerParameter1_wistuog": {
 						"modelConfig": {
 							"path": "PageParameters.UsrAvgPrice"
+						}
+					},
+					"PageParameters_UsrSQLText_wur6rn0": {
+						"modelConfig": {
+							"path": "PageParameters.UsrSQLText"
 						}
 					}
 				}

@@ -2,6 +2,8 @@
 <Resources Culture="cs-CZ">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Objekt" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Schéma objektu" />
 			<Item Name="Caption" Value="Calculate average realty price process" />
 		</Items>
 	</Group>

@@ -4,6 +4,11 @@
 		<Items>
 			<Item Name="BaseElements.FormulaTask1.Caption" Value="Set TypeId" />
 			<Item Name="BaseElements.FormulaTask2.Caption" Value="Set OfferTypeId" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Connect process to Realty" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Realty Id#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="Realty" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Caption" Value="Show results" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.Account.Caption" Value="Account" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.ActivityPriority.Caption" Value="Priority" />
@@ -12,7 +17,7 @@
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.Buttons.Value.69774564-084d-4d5d-83b0-d7990cd44867.Caption" Value="Save | SaveButton" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.Buttons.Value.c6311410-9d1a-4094-a3c8-19cdd79cb0f4.Caption" Value="Cancel | CancelButton" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.ClientUnitSchemaUId.Caption" Value="Module" />
-			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.ClientUnitSchemaUId.DisplayValue" Value="Avg Price | UsrPage_wmkspsq" />
+			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.ClientUnitSchemaUId.DisplayValue" Value="Avg Price | UsrAvgPriceOutputPage" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.Contact.Caption" Value="Contact" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.CreateActivity.Caption" Value="Create activity" />
 			<Item Name="BaseElements.PreconfiguredPageUserTask2.Parameters.CreateActivity.DisplayValue" Value="false" />

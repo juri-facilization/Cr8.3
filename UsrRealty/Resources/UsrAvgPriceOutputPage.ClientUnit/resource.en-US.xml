@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Avg Price" />
+			<Item Name="LocalizableStrings.Input_zye8fl1_label.Value" Value="Text" />
 			<Item Name="Parameters.2e5cc90e-85bc-6281-e22f-d84e06d458ef.Caption" Value="SQL Text" />
 			<Item Name="Parameters.4ac0eae2-fc48-3849-83e9-f74fd4d47d75.Caption" Value="Avg Price" />
 		</Items>
