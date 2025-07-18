@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "71f188d6-21e3-4a24-bea3-5af4bb57db29",
+    "Name": "UsrAvgPriceOutputPage",
+    "ModifiedOnUtc": "\/Date(1752830669000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Avg Price"
+  }
+}
