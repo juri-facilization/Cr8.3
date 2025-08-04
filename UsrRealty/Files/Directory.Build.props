@@ -3,6 +3,7 @@
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/Account/Account.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/Account/Account.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrCategoryInRealty/UsrCategoryInRealty.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrCategoryInRealty/UsrCategoryInRealty.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealty/UsrRealty.cs')" />
+		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealtyAdvertisement/UsrRealtyAdvertisement.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealtyAdvertisement/UsrRealtyAdvertisement.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealtyCategory/UsrRealtyCategory.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealtyCategory/UsrRealtyCategory.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealtyOfferType/UsrRealtyOfferType.cs')" />
 		<Compile Include="$(PkgPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs" Condition="Exists('$(PkgPath)/UsrRealty/Schemas/UsrRealtyType/UsrRealtyType.cs')" />
